@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+
+.bg {
+  background-color: #ffffff;
+}
+
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+.carousel-item {
+  height: 980px !important;
+  width: 1920px !important;
+}
+
+.carousel-caption {
+  color: #ffffff;
+  top: 50vh;
+}
+
+.container-fluid {
+  background-color: transparent;
+}
